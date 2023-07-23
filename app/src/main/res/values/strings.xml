@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Github</string>
+    <string name="search">Search</string>
+    <string name="username">Username</string>
+    <string name="followers">0 Followers</string>
+    <string name="following">0 Following</string>
+    <string name="nama_user">Nama User</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_followers">Followers</string>
+    <string name="tab_following">Following</string>
+    <string name="content_tab_followers">%1$d</string>
+</resources>
